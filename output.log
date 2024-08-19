@@ -1,0 +1,15 @@
+nohup: ignoring input
+2024-08-02 22:32:04,282 - DEBUG - The file content is loaded into a set from: 200k.txt
+2024-08-02 22:32:04,283 - DEBUG - Server listening on 127.0.1.1:44445
+2024-08-02 22:32:04,283 - DEBUG - [SERVER STARTED]!
+2024-08-02 22:32:04,283 - INFO - SSL is disabled.
+2024-08-02 22:32:31,702 - DEBUG - [NEW CONNECTION] ('127.0.0.1', 49942) Connected
+2024-08-02 22:32:31,703 - DEBUG - [NEW CONNECTION] ('127.0.0.1', 49942) Connected
+2024-08-02 22:32:31,703 - DEBUG - [ACTIVE CONNECTIONS] 1
+2024-08-02 22:32:54,957 - DEBUG - [('127.0.0.1', 49942)] Received message: !DISCONNECT
+2024-08-02 22:32:54,957 - DEBUG - Execution time for search query '!DISCONNECT': 0.0000 seconds
+2024-08-02 22:32:54,957 - DEBUG - [LOG] Response to ('127.0.0.1', 49942): STRING NOT FOUND
+
+Search time: 0.0000 seconds
+2024-08-02 22:32:55,958 - ERROR - Error receiving data: [Errno 104] Connection reset by peer
+2024-08-02 22:32:55,958 - DEBUG - [DISCONNECTED] ('127.0.0.1', 49942) Disconnected

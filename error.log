@@ -1,0 +1,64 @@
+2024-08-02 22:53:55,110 - DEBUG - The file content is loaded into a set from: 200k.txt
+2024-08-02 22:53:55,112 - DEBUG - Server listening on 127.0.1.1:44445
+2024-08-02 22:53:55,112 - DEBUG - [SERVER STARTED]!
+2024-08-02 22:53:55,112 - INFO - SSL is disabled.
+2024-08-02 22:54:15,372 - DEBUG - [NEW CONNECTION] ('127.0.0.1', 36698) Connected
+2024-08-02 22:54:15,373 - DEBUG - [NEW CONNECTION] ('127.0.0.1', 36698) Connected
+2024-08-02 22:54:15,373 - DEBUG - [ACTIVE CONNECTIONS] 1
+2024-08-02 22:54:18,231 - DEBUG - [('127.0.0.1', 36698)] Received message: !DISCONNECT
+2024-08-02 22:54:18,231 - DEBUG - Execution time for search query '!DISCONNECT': 0.0000 seconds
+2024-08-02 22:54:18,231 - DEBUG - [LOG] Response to ('127.0.0.1', 36698): STRING NOT FOUND
+
+Search time: 0.0000 seconds
+2024-08-02 22:54:19,232 - ERROR - Error receiving data: [Errno 104] Connection reset by peer
+2024-08-02 22:54:19,233 - DEBUG - [DISCONNECTED] ('127.0.0.1', 36698) Disconnected
+2024-08-02 23:09:20,478 - DEBUG - The file content is loaded into a set from: 200k.txt
+2024-08-02 23:09:20,480 - DEBUG - Server listening on 127.0.1.1:44445
+2024-08-02 23:09:20,480 - DEBUG - [SERVER STARTED]!
+2024-08-02 23:09:20,480 - INFO - SSL is disabled.
+2024-08-03 01:51:26,601 - DEBUG - The file is memory-mapped at: 200k.txt
+2024-08-03 01:51:26,604 - DEBUG - Server listening on 127.0.1.1:44445
+2024-08-03 01:51:26,604 - DEBUG - [SERVER STARTED]!
+2024-08-03 01:51:26,604 - INFO - SSL is disabled.
+2024-08-03 02:01:01,801 - DEBUG - The file is memory-mapped at: 200k.txt
+2024-08-03 02:01:01,805 - DEBUG - Server listening on 127.0.1.1:44445
+2024-08-03 02:01:01,805 - DEBUG - [SERVER STARTED]!
+2024-08-03 02:01:01,805 - INFO - SSL is disabled.
+2024-08-03 02:02:53,978 - DEBUG - [NEW CONNECTION] ('127.0.0.1', 36796) Connected
+2024-08-03 02:02:53,979 - DEBUG - [NEW CONNECTION] ('127.0.0.1', 36796) Connected
+2024-08-03 02:02:53,979 - DEBUG - [ACTIVE CONNECTIONS] 1
+2024-08-03 02:02:57,512 - DEBUG - [('127.0.0.1', 36796)] Received message: !DISCONNECT
+2024-08-03 02:02:57,512 - DEBUG - The file is memory-mapped at: 200k.txt
+2024-08-03 02:02:57,533 - DEBUG - Execution time for search query '!DISCONNECT': 0.0207 seconds
+2024-08-03 02:02:57,533 - DEBUG - [LOG] Response to ('127.0.0.1', 36796): STRING NOT FOUND
+
+Search time: 0.0207 seconds
+2024-08-03 02:02:58,513 - ERROR - Error receiving data: [Errno 104] Connection reset by peer
+2024-08-03 02:02:58,513 - DEBUG - [DISCONNECTED] ('127.0.0.1', 36796) Disconnected
+2024-08-03 02:34:44,080 - DEBUG - The file content is loaded into a set from: 200k.txt
+2024-08-03 02:34:44,082 - DEBUG - Server listening on 127.0.1.1:44445
+2024-08-03 02:34:44,082 - DEBUG - [SERVER STARTED]!
+2024-08-03 02:34:44,082 - INFO - SSL is disabled.
+2024-08-03 02:43:42,266 - DEBUG - The file content is loaded into a set from: 200k.txt
+2024-08-03 02:43:42,269 - DEBUG - Server listening on 127.0.1.1:44445
+2024-08-03 02:43:42,269 - DEBUG - [SERVER STARTED]!
+2024-08-03 02:43:42,269 - INFO - SSL is enabled. Please ensure the server and client are configured with the correct PEM files.
+Enter PEM pass phrase:
+Enter PEM pass phrase:2024-08-03 02:45:38,577 - DEBUG - The file content is loaded into a set from: 200k.txt
+2024-08-03 02:45:38,578 - DEBUG - Server listening on 127.0.1.1:44445
+2024-08-03 02:45:38,578 - DEBUG - [SERVER STARTED]!
+2024-08-03 02:45:38,578 - INFO - SSL is disabled.
+2024-08-03 02:45:46,362 - DEBUG - [NEW CONNECTION] ('127.0.0.1', 36394) Connected
+2024-08-03 02:45:46,362 - DEBUG - [NEW CONNECTION] ('127.0.0.1', 36394) Connected
+2024-08-03 02:45:46,362 - DEBUG - [ACTIVE CONNECTIONS] 1
+2024-08-03 02:45:49,984 - DEBUG - [('127.0.0.1', 36394)] Received message: !DISCONNECT
+2024-08-03 02:45:49,984 - DEBUG - Execution time for search query '!DISCONNECT': 0.0000 seconds
+2024-08-03 02:45:49,984 - DEBUG - [LOG] Response to ('127.0.0.1', 36394): STRING NOT FOUND
+
+Search time: 0.0000 seconds
+2024-08-03 02:45:50,985 - ERROR - Error receiving data: [Errno 104] Connection reset by peer
+2024-08-03 02:45:50,985 - DEBUG - [DISCONNECTED] ('127.0.0.1', 36394) Disconnected
+2024-08-03 12:29:09,923 - DEBUG - The file content is loaded into a set from: 200k.txt
+2024-08-03 12:29:09,929 - DEBUG - Server listening on 127.0.1.1:44445
+2024-08-03 12:29:09,930 - DEBUG - [SERVER STARTED]!
+2024-08-03 12:29:09,930 - INFO - SSL is disabled.
