@@ -1,3 +1,1 @@
-# server-client-query-tool
-# server-client-query-tool
-# server-client-query-tool
+Please Check the Documentation for Setting Up the Socket In the documentation.pdf file
